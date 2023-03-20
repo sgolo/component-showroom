@@ -1,0 +1,8 @@
+.nav-wrapper {
+  background-color: #e0e5eb;
+  display: flex;
+  align-items: center;
+}
+.nav-title {
+  padding: 10px 30px;
+}
